@@ -1,0 +1,6 @@
+*.exe
+*.vs
+main
+*.o
+*.map
+*.obj
